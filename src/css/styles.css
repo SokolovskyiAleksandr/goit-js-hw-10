@@ -18,3 +18,24 @@ body {
   max-width: 320px;
   margin-bottom: 16px;
 }
+ul {
+  list-style: none;
+}
+.img {
+  width: 60;
+  height: 40;
+  margin-right: 12px;
+}
+
+.wrapper {
+  display: flex;
+  align-items: center;
+}
+.list-item {
+  display: flex;
+  font-size: 14px;
+  align-items: center;
+}
+.countryName {
+  font-size: 36px;
+}
